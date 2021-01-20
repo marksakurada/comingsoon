@@ -1,5 +1,5 @@
 .. toctree::
    :maxdepth: 2
 
-   menu1
-   menu2
+   item1
+   item2
