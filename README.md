@@ -1,4 +1,4 @@
-Neural Magic haiku to start the week:
+Neural Magic haiku to start the year right.
 
 
 The covers are off.
